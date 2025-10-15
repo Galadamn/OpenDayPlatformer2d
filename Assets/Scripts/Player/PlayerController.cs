@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -27,12 +28,46 @@ public class PlayerController : MonoBehaviour
             _rigidbody2D.linearVelocityY = jumpSpeed;
         }
 
-        if (_input.Jumped && _rigidbody2D.linearVelocityY > 0f)
+        if (_input.JumpHeld && _rigidbody2D.linearVelocityY > 0f)
         {
             _rigidbody2D.linearVelocityY = _rigidbody2D.linearVelocity.y * 0.5f;
         }
 
         Attack();
-        
+    }
+    
+    private void FixedUpdate()
+    {
+        _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed;
+    }
+    
+    private void Attack()
+    {
+        if (!Physics2D.OverlapCircle(groundCheck.position, 0.2f, LayerMask.GetMask("Enemy")))return;
+
+        var enemyColliders = Physics2D.OverlapCircleAll(groundCheck.position, 0.2f, LayerMask.GetMask("Enemy"));
+
+        foreach (var enemy in enemyColliders)
+        {
+            Destroy(enemy.gameObject);
+        }
+
+        _rigidbody2D.linearVelocityY = jumpSpeed / 1.3f;
+    }
+    
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+       // if (other.transform.CompareTag("Death"))
+       // {
+       //     PlayerTestScene.LoadScene(PlayerTestScene.GetActiveScene().name);
+       // }
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireCube(groundCheck.position, groundBoxSize);
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(groundCheck.position, 0.2f);
     }
 }
