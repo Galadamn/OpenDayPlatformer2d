@@ -39,7 +39,7 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         _rigidbody2D.linearVelocityX = _input.Horizontal * moveSpeed;
-        if (_input.Horizontal <= 0) transform.localScale = new Vector3(transform.localScale.x * -1, 1, 1);
+        if (_input.Horizontal != 0) transform.localScale = new Vector3(_input.Horizontal, 1, 1);
     }
     
     private void Attack()
@@ -56,7 +56,13 @@ public class PlayerController : MonoBehaviour
         _rigidbody2D.linearVelocityY = jumpSpeed / 1.3f;
     }
     
-    
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.transform.CompareTag("Death"))
+        {
+            
+        }
+    }
 
     private void OnDrawGizmos()
     {
