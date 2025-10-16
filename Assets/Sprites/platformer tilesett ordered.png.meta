@@ -1,37 +1,10 @@
 fileFormatVersion: 2
-guid: dec9169e75a6bda40833dc67a222ca73
+guid: f9f46508e9565ac4ba609d66a4b2d555
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6873713641717767021
-    second: Eget_platformer_tilesett-Sheet_0
-  - first:
-      213: 6443647621771580148
-    second: Eget_platformer_tilesett-Sheet_1
-  - first:
-      213: -1997991042949157967
-    second: Eget_platformer_tilesett-Sheet_2
-  - first:
-      213: -791750743516887549
-    second: Eget_platformer_tilesett-Sheet_3
-  - first:
-      213: 5962540622291737754
-    second: Eget_platformer_tilesett-Sheet_4
-  - first:
-      213: 112897392698568677
-    second: Eget_platformer_tilesett-Sheet_5
-  - first:
-      213: -6760426999644075407
-    second: Eget_platformer_tilesett-Sheet_6
-  - first:
-      213: 2176284321985616838
-    second: Eget_platformer_tilesett-Sheet_7
-  - first:
-      213: 6253291809721834196
-    second: Eget_platformer_tilesett-Sheet_8
-  - first:
-      213: -302471975564873353
-    second: Eget_platformer_tilesett-Sheet_9
+      213: 4202963382351639233
+    second: platformer tilesett ordered_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -140,11 +113,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_0
+      name: platformer tilesett ordered_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c23b019dece35a30800000000000000
+      internalID: 4202963382351639233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_1
       rect:
         serializedVersion: 2
         x: 16
-        y: 0
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -153,20 +148,20 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 394e7a18cd9ab90a0800000000000000
-      internalID: -6873713641717767021
+      spriteID: e534ac391df69ef42b936d1bd999c37a
+      internalID: -1617450920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_1
+      name: platformer tilesett ordered_2
       rect:
         serializedVersion: 2
         x: 32
-        y: 0
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -175,20 +170,20 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f25c714f5f6c6950800000000000000
-      internalID: 6443647621771580148
+      spriteID: dc14cad84018a5d4f93b268c42a3d8bc
+      internalID: 1181528378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_2
+      name: platformer tilesett ordered_3
       rect:
         serializedVersion: 2
         x: 48
-        y: 0
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -197,20 +192,20 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1bb6a947bb5b544e0800000000000000
-      internalID: -1997991042949157967
+      spriteID: 934f61fe5cd44844ba9b46853f56799a
+      internalID: 2088113788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_3
+      name: platformer tilesett ordered_4
       rect:
         serializedVersion: 2
         x: 64
-        y: 0
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -219,16 +214,874 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3064606c4e22305f0800000000000000
-      internalID: -791750743516887549
+      spriteID: 71e6fd17794390342a21f90992f6ef05
+      internalID: -1455522049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_4
+      name: platformer tilesett ordered_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b505c347ba5b2042b026b7704b54b99
+      internalID: 621088140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c1b19d4f488643bd47e830db6a654
+      internalID: -1339608441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f593ff09c8bbd72478aebe74180be71e
+      internalID: 1335530693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2b7b58891db8b42a691027dd8005c0
+      internalID: 1103807301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd30c1373380d46b67b873884b9c1b
+      internalID: 2015746818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ae80da7fb8304489dafdadc25286d
+      internalID: 79912388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c287422ecdc50694d9d1b86ffb74c7c8
+      internalID: 203837926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab8cf744a164840b1e44e82f1b7f3d
+      internalID: -1027064123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e306093253ab3846b3fdb3c7ea01881
+      internalID: 1783547814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba7b7833e609047a28514333dac360
+      internalID: -324759280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea776e19663aa85478ae4968d3076f16
+      internalID: 1781279158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5b27c74ccb594ca41cbf2e3a277e0
+      internalID: 1947375351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a622b9e99da843afc30749e3b2f48
+      internalID: -1468638606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6a80b930d5e84ba89cce692cc052c
+      internalID: 977450844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ae503476237e4d9ba6f7568812b43
+      internalID: 111588091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819a4e62cf9f2d74686a941c7e0356f8
+      internalID: -2009853907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b25372f7e57746ba4f4a390e53d08
+      internalID: -1362392806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41d5166728b7c4e85ca3b88e41fc9f
+      internalID: -985495687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da35d6c0eff61a4ea44eb2aefa5ae4d
+      internalID: -1852261687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ebe9d229734042851e69b569f5828
+      internalID: 410375192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd18e19882ed4647be8fd7dafa7549e
+      internalID: -638802692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8866b98ba166e46a5537edb34da639
+      internalID: -1540614614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9f7048fa0e734ba1ae92dbb0b9003
+      internalID: -1450672453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccafdba20c6d104d8b6f31020a93f50
+      internalID: -641520894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8600f4e768f5143bf9f75109bfe576
+      internalID: -1826275294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b132e80907e64c97696eb4c72149e
+      internalID: -1825093536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947a85320699f348b686fb902becdca
+      internalID: 913815798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1245ccdf4c74d349afe4c3dbedfecee
+      internalID: -1892718898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec72a089eae5d9409cde51c91a69e05
+      internalID: 2138562637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3a1e4a27a9824e8485f6c971babd6
+      internalID: -939624960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7edda4d58debb45ac02808006e5a9b
+      internalID: 1310118877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d91bc6e1015ac4fa725def6347b8ae
+      internalID: 26211103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a3d8dc79134747b9d7e559c271cd6
+      internalID: 1714454786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5efb5cf648a14aa3bcd8f40ac4f1e
+      internalID: -1558237579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6096b133e4f4842ba1b8391935f6d5
+      internalID: 352010496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f89f81b2eb4c545a130494d2913ebe
+      internalID: 1574777482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d455cefff13d4ea409d534388882f723
+      internalID: 646019614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83923015debbd1a41b0c16cda9aee6a0
+      internalID: 1365305882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193167d7ece2ab41bc856abab705389
+      internalID: -2015247204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer tilesett ordered_44
       rect:
         serializedVersion: 2
         x: 80
@@ -241,16 +1094,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9c1986ea133fb250800000000000000
-      internalID: 5962540622291737754
+      spriteID: 739a6d786030cc843a982e377d4a5fe0
+      internalID: -762175851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_5
+      name: platformer tilesett ordered_45
       rect:
         serializedVersion: 2
         x: 96
@@ -263,16 +1116,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5efaddb9497119100800000000000000
-      internalID: 112897392698568677
+      spriteID: c0ff2e6bf90d5b94ca886948073e426c
+      internalID: 1033218431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_6
+      name: platformer tilesett ordered_46
       rect:
         serializedVersion: 2
         x: 112
@@ -285,16 +1138,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 17a414c46732e22a0800000000000000
-      internalID: -6760426999644075407
+      spriteID: 5fb56d2626eacf5438d8fab9186b62fa
+      internalID: -1579121819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_7
+      name: platformer tilesett ordered_47
       rect:
         serializedVersion: 2
         x: 128
@@ -307,16 +1160,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6cb54367f07b33e10800000000000000
-      internalID: 2176284321985616838
+      spriteID: a789e0d6bdbaa8046861470dd1476e41
+      internalID: 1867995178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_8
+      name: platformer tilesett ordered_48
       rect:
         serializedVersion: 2
         x: 144
@@ -329,16 +1182,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4da545305c728c650800000000000000
-      internalID: 6253291809721834196
+      spriteID: 87199b0e08fd33d4b99e49949828028b
+      internalID: 1200548558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_9
+      name: platformer tilesett ordered_49
       rect:
         serializedVersion: 2
         x: 160
@@ -351,16 +1204,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 771f1fd37576dcbf0800000000000000
-      internalID: -302471975564873353
+      spriteID: 0375b87c593974a4dbe58f29980067c1
+      internalID: -1041255323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_10
+      name: platformer tilesett ordered_50
       rect:
         serializedVersion: 2
         x: 176
@@ -375,14 +1228,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ac92838648e104468d76fbe3df54f26
-      internalID: 835010651
+      spriteID: 9ff8794594a0a564f824a2fda2d4a8f5
+      internalID: 1875217917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_11
+      name: platformer tilesett ordered_51
       rect:
         serializedVersion: 2
         x: 192
@@ -397,14 +1250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bffb57c95048bf4ba07a984445bcf96
-      internalID: -510087384
+      spriteID: cbfd206585376434985252d80cdff5d5
+      internalID: 1644744361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_12
+      name: platformer tilesett ordered_52
       rect:
         serializedVersion: 2
         x: 208
@@ -419,14 +1272,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc8db3e77b635da4e9805b3a12b97623
-      internalID: 898229999
+      spriteID: fa916ed0ca60992488f24a16340c217a
+      internalID: 149687244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_13
+      name: platformer tilesett ordered_53
       rect:
         serializedVersion: 2
         x: 224
@@ -441,14 +1294,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7ebc5f4539e42d499ed89b4b3d63669
-      internalID: -1627131804
+      spriteID: 1a7932ebcb44e534bb94dd65df27ae8b
+      internalID: 1846905171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_14
+      name: platformer tilesett ordered_54
       rect:
         serializedVersion: 2
         x: 240
@@ -463,14 +1316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a9efe4fd8284eb47a3f0c7663cb86a3
-      internalID: -518268598
+      spriteID: bebfb2758fb45ab43b1ac332dd6fc19f
+      internalID: -1298027419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_15
+      name: platformer tilesett ordered_55
       rect:
         serializedVersion: 2
         x: 256
@@ -485,866 +1338,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 566e19cd9685f4b4ba18e468905bd2ed
-      internalID: -632304338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff025dacbd880b8488d7bbb86bd9d621
-      internalID: -1929272394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fc4af64572674e4bb10e7fe564c1316
-      internalID: -1433148312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49fb6d4950fc0fd4d92bd3a1bbc5ff26
-      internalID: -81547029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f575833238329964e8898358d45b8fe3
-      internalID: -459046709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87b4bf164b3e846479d9f8454055fca1
-      internalID: -1396168021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9c2828f2ee31b645a8224c827098721
-      internalID: -1906974459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1815a8aac98f8b547891e9243a97805b
-      internalID: 1015394865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5f212358a2dddd42a98ad8b7fefa586
-      internalID: -108591612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_24
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b409ed6772d1ed4ca3fcbeed1b26475
-      internalID: 449329939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_25
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4b948b060c1cb24ca9a636d9f6782fa
-      internalID: -1194822783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_26
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: beff166dc5035984aa26e7ffdfe12bda
-      internalID: 729967588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_27
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 667e279ca7650bb40912d80ba7d919ef
-      internalID: 541245886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3ed9a231ff98924e9541624b51fd5cb
-      internalID: -1276586946
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c59d4bf117cd262478d708eabf0428cf
-      internalID: 1757639901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d23098c57b20f2e4dbe38d57d7fafd07
-      internalID: -355655198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b4032bd4f41543478df5661bb020fd1
-      internalID: 1099527541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3dd0eff63e406a5479d8f16111ea0152
-      internalID: 1755808678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_33
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c6bd1fed1876f948b6f48240d0317a7
-      internalID: 661182296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_34
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e15d9ee584f86845937fad8ea741dab
-      internalID: -2114007069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_35
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f35bab0649e4e744c94dd0e463789149
-      internalID: 1546777869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_36
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 988bb93f99c42414fa2ab13921a5bb0e
-      internalID: 338065829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_37
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b2d999b630f5dc429aa4d1bcaf4e5d3
-      internalID: -804042987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_38
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ef7015608377fb458c973dfb7d5afc1
-      internalID: -956122051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_39
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52c3f48dc04c6b64aa89e2146781a899
-      internalID: 1647987377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 656
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d64be98b826d55a4a9d9da1b09a44426
-      internalID: -845835173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 301e00bff729afb4f8458734459aa8a4
-      internalID: -1829606177
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_42
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce1e247f8f88f42498555ee8e328ea97
-      internalID: -105135065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_43
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3dd6ef1d6e93a46439905c1943ca42b2
-      internalID: -1554776062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_44
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12bde8a407c1e7f4596d0eea578ba19d
-      internalID: 1768432329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_45
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 378c7bd733a742e45ac4456860f1c7c5
-      internalID: 1171587707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_46
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 951501ddcd637d349a75afce9ff11ce4
-      internalID: -1869289019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_47
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da145fb5ff948784195b90e2f9b171b5
-      internalID: 1528494588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_48
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4b4f6ce62fe84d489ca2c40c41bd503
-      internalID: 111741732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_49
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0de0955966e07944ca5b2d6be4b2932b
-      internalID: -48557852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_50
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 078de1048a86fb14792c7f5766f76c39
-      internalID: 770577413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_51
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cde77fb9ef68d346a00e79b4f2e7aeb
-      internalID: 51809933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_52
-      rect:
-        serializedVersion: 2
-        x: 848
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74f9eb76fb251034ba56e46ce4420d34
-      internalID: 2136686397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_53
-      rect:
-        serializedVersion: 2
-        x: 864
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d8bbeec81c029b44a979892a2736067
-      internalID: 1329999298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eget_platformer_tilesett-Sheet_54
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b71ab69da4d6bf14ab0b7555f48cdbe4
-      internalID: 1262407936
+      spriteID: 9c73782155132974a87842cc4b409bbb
+      internalID: 81977174
       vertices: []
       indices: 
       edges: []
@@ -1353,7 +1348,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 94bd536c1bf0c4943b1688d5f618ce1f
+    spriteID: cb39f6f11d4406541a2cf441113b991e
     internalID: 0
     vertices: []
     indices: 
@@ -1365,61 +1360,62 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Eget_platformer_tilesett-Sheet_0: -6873713641717767021
-      Eget_platformer_tilesett-Sheet_1: 6443647621771580148
-      Eget_platformer_tilesett-Sheet_10: 835010651
-      Eget_platformer_tilesett-Sheet_11: -510087384
-      Eget_platformer_tilesett-Sheet_12: 898229999
-      Eget_platformer_tilesett-Sheet_13: -1627131804
-      Eget_platformer_tilesett-Sheet_14: -518268598
-      Eget_platformer_tilesett-Sheet_15: -632304338
-      Eget_platformer_tilesett-Sheet_16: -1929272394
-      Eget_platformer_tilesett-Sheet_17: -1433148312
-      Eget_platformer_tilesett-Sheet_18: -81547029
-      Eget_platformer_tilesett-Sheet_19: -459046709
-      Eget_platformer_tilesett-Sheet_2: -1997991042949157967
-      Eget_platformer_tilesett-Sheet_20: -1396168021
-      Eget_platformer_tilesett-Sheet_21: -1906974459
-      Eget_platformer_tilesett-Sheet_22: 1015394865
-      Eget_platformer_tilesett-Sheet_23: -108591612
-      Eget_platformer_tilesett-Sheet_24: 449329939
-      Eget_platformer_tilesett-Sheet_25: -1194822783
-      Eget_platformer_tilesett-Sheet_26: 729967588
-      Eget_platformer_tilesett-Sheet_27: 541245886
-      Eget_platformer_tilesett-Sheet_28: -1276586946
-      Eget_platformer_tilesett-Sheet_29: 1757639901
-      Eget_platformer_tilesett-Sheet_3: -791750743516887549
-      Eget_platformer_tilesett-Sheet_30: -355655198
-      Eget_platformer_tilesett-Sheet_31: 1099527541
-      Eget_platformer_tilesett-Sheet_32: 1755808678
-      Eget_platformer_tilesett-Sheet_33: 661182296
-      Eget_platformer_tilesett-Sheet_34: -2114007069
-      Eget_platformer_tilesett-Sheet_35: 1546777869
-      Eget_platformer_tilesett-Sheet_36: 338065829
-      Eget_platformer_tilesett-Sheet_37: -804042987
-      Eget_platformer_tilesett-Sheet_38: -956122051
-      Eget_platformer_tilesett-Sheet_39: 1647987377
-      Eget_platformer_tilesett-Sheet_4: 5962540622291737754
-      Eget_platformer_tilesett-Sheet_40: -845835173
-      Eget_platformer_tilesett-Sheet_41: -1829606177
-      Eget_platformer_tilesett-Sheet_42: -105135065
-      Eget_platformer_tilesett-Sheet_43: -1554776062
-      Eget_platformer_tilesett-Sheet_44: 1768432329
-      Eget_platformer_tilesett-Sheet_45: 1171587707
-      Eget_platformer_tilesett-Sheet_46: -1869289019
-      Eget_platformer_tilesett-Sheet_47: 1528494588
-      Eget_platformer_tilesett-Sheet_48: 111741732
-      Eget_platformer_tilesett-Sheet_49: -48557852
-      Eget_platformer_tilesett-Sheet_5: 112897392698568677
-      Eget_platformer_tilesett-Sheet_50: 770577413
-      Eget_platformer_tilesett-Sheet_51: 51809933
-      Eget_platformer_tilesett-Sheet_52: 2136686397
-      Eget_platformer_tilesett-Sheet_53: 1329999298
-      Eget_platformer_tilesett-Sheet_54: 1262407936
-      Eget_platformer_tilesett-Sheet_6: -6760426999644075407
-      Eget_platformer_tilesett-Sheet_7: 2176284321985616838
-      Eget_platformer_tilesett-Sheet_8: 6253291809721834196
-      Eget_platformer_tilesett-Sheet_9: -302471975564873353
+      platformer tilesett ordered_0: 4202963382351639233
+      platformer tilesett ordered_1: -1617450920
+      platformer tilesett ordered_10: 79912388
+      platformer tilesett ordered_11: 203837926
+      platformer tilesett ordered_12: -1027064123
+      platformer tilesett ordered_13: 1783547814
+      platformer tilesett ordered_14: -324759280
+      platformer tilesett ordered_15: 1781279158
+      platformer tilesett ordered_16: 1947375351
+      platformer tilesett ordered_17: -1468638606
+      platformer tilesett ordered_18: 977450844
+      platformer tilesett ordered_19: 111588091
+      platformer tilesett ordered_2: 1181528378
+      platformer tilesett ordered_20: -2009853907
+      platformer tilesett ordered_21: -1362392806
+      platformer tilesett ordered_22: -985495687
+      platformer tilesett ordered_23: -1852261687
+      platformer tilesett ordered_24: 410375192
+      platformer tilesett ordered_25: -638802692
+      platformer tilesett ordered_26: -1540614614
+      platformer tilesett ordered_27: -1450672453
+      platformer tilesett ordered_28: -641520894
+      platformer tilesett ordered_29: -1826275294
+      platformer tilesett ordered_3: 2088113788
+      platformer tilesett ordered_30: -1825093536
+      platformer tilesett ordered_31: 913815798
+      platformer tilesett ordered_32: -1892718898
+      platformer tilesett ordered_33: 2138562637
+      platformer tilesett ordered_34: -939624960
+      platformer tilesett ordered_35: 1310118877
+      platformer tilesett ordered_36: 26211103
+      platformer tilesett ordered_37: 1714454786
+      platformer tilesett ordered_38: -1558237579
+      platformer tilesett ordered_39: 352010496
+      platformer tilesett ordered_4: -1455522049
+      platformer tilesett ordered_40: 1574777482
+      platformer tilesett ordered_41: 646019614
+      platformer tilesett ordered_42: 1365305882
+      platformer tilesett ordered_43: -2015247204
+      platformer tilesett ordered_44: -762175851
+      platformer tilesett ordered_45: 1033218431
+      platformer tilesett ordered_46: -1579121819
+      platformer tilesett ordered_47: 1867995178
+      platformer tilesett ordered_48: 1200548558
+      platformer tilesett ordered_49: -1041255323
+      platformer tilesett ordered_5: 621088140
+      platformer tilesett ordered_50: 1875217917
+      platformer tilesett ordered_51: 1644744361
+      platformer tilesett ordered_52: 149687244
+      platformer tilesett ordered_53: 1846905171
+      platformer tilesett ordered_54: -1298027419
+      platformer tilesett ordered_55: 81977174
+      platformer tilesett ordered_6: -1339608441
+      platformer tilesett ordered_7: 1335530693
+      platformer tilesett ordered_8: 1103807301
+      platformer tilesett ordered_9: 2015746818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
