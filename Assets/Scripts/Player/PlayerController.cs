@@ -1,5 +1,5 @@
-using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -60,7 +60,7 @@ public class PlayerController : MonoBehaviour
     {
         if (other.transform.CompareTag("Death"))
         {
-            
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);  
         }
     }
 
