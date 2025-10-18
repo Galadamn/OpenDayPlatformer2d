@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 1466738247588139762}
   m_Layer: 6
   m_Name: PatrolEnemy
-  m_TagString: Enemy
+  m_TagString: Death
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
