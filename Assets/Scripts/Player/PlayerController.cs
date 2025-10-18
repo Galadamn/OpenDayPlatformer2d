@@ -15,9 +15,12 @@ public class PlayerController : MonoBehaviour
     private InputManager _input;
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
+    public GameObject VictoryScreen;
 
     private void Start()
     {
+        Time.timeScale = 1;
+        VictoryScreen.SetActive(false);
         _input = GetComponent<InputManager>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
@@ -75,6 +78,8 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Victory"))
         {
+            VictoryScreen.SetActive(true);
+            Time.timeScale = 0;
             print("Victory");
         }
     }
