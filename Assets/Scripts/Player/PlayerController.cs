@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
         _input = GetComponent<InputManager>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+        VictoryScreen = GameObject.FindGameObjectWithTag("VictoryScreen");
     }
 
     private void Update()

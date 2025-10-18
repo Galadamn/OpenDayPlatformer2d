@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Death
   - Victory
+  - VictoryScreen
   layers:
   - Default
   - TransparentFX
