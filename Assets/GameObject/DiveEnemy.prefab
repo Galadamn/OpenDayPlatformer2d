@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8175218698000067178}
   - component: {fileID: 8797156736249033693}
   - component: {fileID: 7609603934305724054}
+  - component: {fileID: 4311051082289790195}
   m_Layer: 0
   m_Name: DiveEnemy
   m_TagString: Untagged
@@ -133,7 +134,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDive
   moveSpeed: 5
-  sightRange: 5
+  sightRange: 4.5
+  collisionRange: 0.3
   whatIsGround:
     serializedVersion: 2
     m_Bits: 8
@@ -187,3 +189,25 @@ PolygonCollider2D:
       - {x: -0.5, y: -0.28866667}
       - {x: 0.5, y: -0.28866667}
   m_UseDelaunayMesh: 0
+--- !u!95 &4311051082289790195
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644870283473556872}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b871def948612af4796406d38ba6112e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

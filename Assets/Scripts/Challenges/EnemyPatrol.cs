@@ -47,10 +47,10 @@ public class EnemyPatrol : MonoBehaviour
     {
         if (DetectedWallOrFall())
         { 
-            moveSpeed *= -1; //flip the move direction
+            moveSpeed *= -1; //flip the move direction  
             transform.localScale  = new Vector2(transform.localScale.x * -1f, 1f); //flip the horizontal sprite direction
         }
-        //UpdateAnimation();
+        UpdateAnimation();
     }
     
     private void OnDrawGizmos()

@@ -4,6 +4,7 @@ public class EnemyDive : MonoBehaviour
 {
     public float moveSpeed;
     public float sightRange;
+    [SerializeField] private float collisionRange;
 
     public LayerMask whatIsGround;
     
@@ -15,7 +16,7 @@ public class EnemyDive : MonoBehaviour
 
     private void Start()
     {
-        _target = GameObject.Find("Player").transform;
+        _target = GameObject.FindGameObjectWithTag("Player").transform;
         _animator = GetComponent<Animator>();
     }
 
@@ -23,7 +24,7 @@ public class EnemyDive : MonoBehaviour
     {
         
         
-        if (!Physics2D.OverlapCircle(transform.position, 0.2f, whatIsGround))
+        if (!Physics2D.OverlapCircle(transform.position, collisionRange, whatIsGround))
         {
             if (!_canAttack && Vector2.Distance(transform.position, _target.position) < sightRange)
             {
@@ -38,6 +39,11 @@ public class EnemyDive : MonoBehaviour
             sightRange = 0;
             _canAttack = false;
         }
+        
+        if (_canAttack)
+        {
+            transform.position += _attackDirection * (moveSpeed * Time.deltaTime);
+        }
     }
     
     private void OnDrawGizmos()
@@ -45,7 +51,7 @@ public class EnemyDive : MonoBehaviour
         Gizmos.color = Color.chartreuse;
         Gizmos.DrawWireSphere(transform.position, sightRange);  //sight range gizmo
         Gizmos.color = Color.softRed;
-        Gizmos.DrawWireSphere(transform.position, 0.2f);  //ground check gizmo
+        Gizmos.DrawWireSphere(transform.position, collisionRange);  //ground check gizmo
     }
 
     private void UpdateAnimation()
